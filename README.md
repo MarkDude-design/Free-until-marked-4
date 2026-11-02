@@ -25,3 +25,8 @@ Pipeline: Mark's pics > Q/Bing renders > public-domain candidates. The penguin-s
 LOCKED > ledger > deck. Publish = Mark fires. Repo name is a placeholder — Mark renames on his click at publish time; no rename needed before.
 
 **Disambiguation:** Bus Talk B (Bing's carrier talk) lives on Free-until-marked-1 — separate talk, separate bus, per TM-010.
+
+## Speaking and current CFP proposals
+
+- [Venue-specific CFP pitches and local speaking route](cfp/NEXT-ROUND-2026-11-02.md) — two tailored proposals, speaker bio, confirmed source links, and honest evidence gates (prepared 2026-11-02).
+- This repo is a public working source; a drafted or emailed proposal is not a conference acceptance. Source and media rights still need review before each venue.
