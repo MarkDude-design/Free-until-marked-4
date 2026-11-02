@@ -5,7 +5,7 @@
 ## Primary match: BSidesSF 2027 — Informational / security talk
 
 - CFP: https://bsidessf.org/cfp
-- Deadline: 2026-11-09 soft deadline; check portal for final cutoff
+- Deadline: 2026-11-09 soft deadline; 2026-11-13 final close per https://pretalx.com/bsidessf-2027/
 - Format: Propose 30m only after adding a real annotated control/failure example and a short audience test; existing source is ~20m
 - Suggested public title: **Who Is Driving? Permission, Revocation, and the Return Path for AI Agents**
 - Brief hook: An agent can take the wheel. What permissions did we give it, and what happens when we pull the emergency cord?
@@ -48,7 +48,7 @@ IMPORTANT: current 10-slide skeleton leaves the owner-defined return-path slot o
 
 ## Next action
 
-Quickest stage: Noisebridge lightning. High-value conference: BSidesSF by Nov 9, conditional on technical demonstration and 30m expanded outline.
+Quickest stage: Noisebridge lightning. High-value conference: BSidesSF soft Nov 9 / final Nov 13, conditional on technical demonstration and 30m expanded outline.
 
 **Submission controls:** A committed proposal is not a sent/submitted proposal. Obtain actual portal confirmation/ID or recorded organizer email before updating status. Verify CFP requirements, rights for streamed/CC-BY media, and whether a given public repo links to assets that are genuinely releasable. Do not expose private histories or ungated names.
 
